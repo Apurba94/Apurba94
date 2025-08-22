@@ -33,8 +33,7 @@ I am a Computer Science and Engineering graduate with a deep passion for solving
 | **2D Game: DARKO FIGHTER** | 2D game project | C, C++, i-Graphics | [View Repo](https://github.com/Apurba94/Darko_Fighter_Game-Development) |
 | **Computer Graphics Project** | Graphics project in web technologies | JavaScript, HTML | [View Repo](https://github.com/TanvirAS98/Computer-Graphics-Project) |
 | **All ECA Certifications** | Almost 30+ ECA Course Certifications | AI/ML/Fullstack/Deep learning/Computer Vision/DS & Algo/Data Science | [View Drive](https://drive.google.com/file/d/1ZtTrdRvy5aP6SnO6LRi9LS7rbMhhSLzo/view) |
-
-| **CV** | CV of Janin A Apurba | Researcher | [View Drive]() |
+| **CV** | CV of Janin A Apurba | Researcher | [View Drive](https://drive.google.com/file/d/1mU4Bvls94U_ONTf8E_qwJWF8cLZ8rpnS/view?usp=sharing) |
 
 
 ---
