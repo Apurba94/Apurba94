@@ -1,6 +1,6 @@
 # Hi there, I'm Janin A Apurba 👋  
 
-🚀 **Software Engineer | Competitive Programmer | AI/ML Engineer | Researcher **  
+🚀 **Software Engineer | Competitive Programmer | AI/ML/DL Engineer | Researcher **  
 
 I am a Computer Science and Engineering graduate with a deep passion for solving problems through
  code. Over the past decade, I’ve immersed myself in competitive programming, which has sharpened
@@ -16,7 +16,7 @@ I am a Computer Science and Engineering graduate with a deep passion for solving
 **Frontend:** React.js, HTML5, CSS3, JavaScript, Bootstrap, UI/UX  
 **Backend:** Node.js, ASP.NET (MVC, Core Web API), Java, Python, R  
 **Databases:** SQL, PostgreSQL, Oracle PL/SQL, MySQL, Apache Derby  
-**Tools & Others:** Git/GitHub, Android Studio, NetBeans, Jupyter, XAMPP  
+**Tools & Others:** Git/GitHub, Android Studio, NetBeans, Jupyter, XAMPP ,Anaconda, google collab etc 
 
 ---
 
@@ -32,6 +32,11 @@ I am a Computer Science and Engineering graduate with a deep passion for solving
 | **Ride Sharing Management System** | Database-driven ride sharing system | Oracle PL/SQL | [View Repo](https://github.com/Apurba94/PL_SQL_Ride_sharing-project) |
 | **2D Game: DARKO FIGHTER** | 2D game project | C, C++, i-Graphics | [View Repo](https://github.com/Apurba94/Darko_Fighter_Game-Development) |
 | **Computer Graphics Project** | Graphics project in web technologies | JavaScript, HTML | [View Repo](https://github.com/TanvirAS98/Computer-Graphics-Project) |
+
+| **All ECA Certifications** | Almost 30+ ECA Course Certifications | AI/ML/Fullstack/Deep learning/Computer Vision/DS & Algo/Data Science | [View Drive](https://drive.google.com/file/d/1ZtTrdRvy5aP6SnO6LRi9LS7rbMhhSLzo/view) |
+
+| **CV** | CV of Janin A Apurba | Researcher | [View Drive]() |
+
 
 ---
 
