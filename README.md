@@ -2,8 +2,13 @@
 
 🚀 **Software Engineer | Competitive Programmer | AI/ML Engineer | Researcher **  
 
-I’m passionate about designing and building scalable applications using both frontend and backend technologies.  
-With 10+ years of competitive programming experience, I bring strong problem-solving skills and clean coding practices into software development.  
+I am a Computer Science and Engineering graduate with a deep passion for solving problems through
+ code. Over the past decade, I’ve immersed myself in competitive programming, which has sharpened
+ my ability to think critically and design efficient algorithms. Alongside this, I’ve developed a strong
+ interest in artificial intelligence, machine learning, deep learning, and computer vision—areas where I’ve
+ gained hands-on experience through academic projects and self-driven learning. I enjoy exploring how
+ data and intelligent systems can solve real-world problems and am always looking for opportunities to
+ grow, collaborate, and build meaningful technology  
 
 ---
 
