@@ -1,19 +1,7 @@
 # Hi there, I'm Janin A Apurba 👋  
 
 🚀 **Software Engineer | Competitive Programmer | AI/ML/DL Engineer | Researcher **  
-### Hi there 👋
 
-I am a developer. You can also find and connect with me on my other accounts:
-
-- **Secondary GitHub Account:** [@SecondaryUsername](https://github.com)
-- **LinkedIn:** [My Profile Name](https://linkedin.com)
-- **Twitter/X:** [@YourHandle](https://x.com)
-
----
-### Connect with me using badges:
-
-[![GitHub](https://shields.io)](https://github.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
 I am a Computer Science and Engineering graduate with a deep passion for solving problems through
  code. Over the past decade, I’ve immersed myself in competitive programming, which has sharpened
  my ability to think critically and design efficient algorithms. Alongside this, I’ve developed a strong
