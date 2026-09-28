@@ -58,3 +58,10 @@ I am a Computer Science and Engineering graduate with a deep passion for solving
 - 🌐 Portfolio: [Live Portfolio](https://apurba94.github.io/Portfolio_updated/)  
 
 ---
+
+## Follow Janin on YouTube
+
+If this project helped you, please follow and subscribe:
+
+- **Study with Janin**: [youtube.com/@studywithjanin](https://www.youtube.com/@studywithjanin)
+- **Pomodoro Study with Janin**: [youtube.com/@pomodorostudywithjanin3326](https://www.youtube.com/@pomodorostudywithjanin3326)
