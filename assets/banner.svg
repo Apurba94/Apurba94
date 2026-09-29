@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="bt bd">
+<title id="bt">Janin A Apurba</title>
+<desc id="bd">AI and computer vision researcher and educator. B.Sc. CSE, AUST. Advanced ICT Officer, CNRS-UNHCR. Seeking a fully funded PhD in AI. Sponsored projects become open for all.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#060a1a"/>
+    <stop offset=".55" stop-color="#0d1333"/>
+    <stop offset="1" stop-color="#1b0e3d"/>
+  </linearGradient>
+  <linearGradient id="nm" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#67e8f9"/>
+    <stop offset=".5" stop-color="#a5b4fc"/>
+    <stop offset="1" stop-color="#e879f9"/>
+  </linearGradient>
+  <radialGradient id="g1" cx=".82" cy=".5" r=".42">
+    <stop offset="0" stop-color="#7c3aed" stop-opacity=".38"/>
+    <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="g2" cx=".08" cy=".05" r=".5">
+    <stop offset="0" stop-color="#06b6d4" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="sc" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+    <stop offset="1" stop-color="#22d3ee" stop-opacity=".28"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#8ea2ff" stroke-opacity=".06"/>
+  </pattern>
+  <clipPath id="card"><rect width="1200" height="380" rx="22"/></clipPath>
+  <clipPath id="vf"><rect x="792" y="62" width="356" height="280"/></clipPath>
+</defs>
+<style>
+  .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, 'Cascadia Code', Consolas, 'Courier New', monospace; }
+  .star { animation: tw 4s ease-in-out infinite; }
+  .node { animation: nd 3s ease-in-out infinite; }
+  .sig { fill: none; stroke-width: 3; stroke-linecap: round; stroke-dasharray: 16 600; animation: sg 3.2s linear infinite; }
+  .scan { animation: scan 4.5s linear infinite; }
+  .dot { animation: dot 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  .rise { animation: rise .9s ease-out both; }
+  @keyframes tw { 0%, 100% { opacity: .15 } 50% { opacity: .9 } }
+  @keyframes nd { 0%, 100% { opacity: .25 } 50% { opacity: 1 } }
+  @keyframes sg { from { stroke-dashoffset: 616 } to { stroke-dashoffset: 0 } }
+  @keyframes scan { from { transform: translateY(0) } to { transform: translateY(262px) } }
+  @keyframes dot { 0%, 100% { transform: scale(1); opacity: 1 } 50% { transform: scale(1.7); opacity: .45 } }
+  @keyframes rise { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+</style>
+<g clip-path="url(#card)">
+  <rect width="1200" height="380" fill="url(#bg)"/>
+  <rect width="1200" height="380" fill="url(#grid)"/>
+  <rect width="1200" height="380" fill="url(#g1)"/>
+  <rect width="1200" height="380" fill="url(#g2)"/>
+
+  <g fill="#c7d2fe">
+    <circle class="star" cx="420" cy="40" r="1.6"/>
+    <circle class="star" cx="610" cy="78" r="1.2" style="animation-delay:.7s"/>
+    <circle class="star" cx="700" cy="30" r="1.4" style="animation-delay:1.5s"/>
+    <circle class="star" cx="530" cy="352" r="1.3" style="animation-delay:2.2s"/>
+    <circle class="star" cx="330" cy="356" r="1.1" style="animation-delay:.3s"/>
+    <circle class="star" cx="1170" cy="40" r="1.5" style="animation-delay:1.1s"/>
+    <circle class="star" cx="760" cy="360" r="1.2" style="animation-delay:2.8s"/>
+    <circle class="star" cx="640" cy="200" r="1" style="animation-delay:1.9s"/>
+    <circle class="star" cx="1180" cy="330" r="1.3" style="animation-delay:.9s"/>
+    <circle class="star" cx="36" cy="330" r="1.2" style="animation-delay:3.1s"/>
+  </g>
+
+  <!-- text -->
+  <g class="sans">
+    <text class="rise" x="64" y="98" font-size="15" font-weight="700" letter-spacing="4" fill="#67e8f9">HELLO, I'M</text>
+    <text class="rise" x="60" y="164" font-size="66" font-weight="800" fill="url(#nm)" style="animation-delay:.1s">Janin A Apurba</text>
+    <text class="rise" x="64" y="212" font-size="24" font-weight="600" fill="#e0e7ff" style="animation-delay:.2s">AI &amp; Computer Vision Researcher · Educator</text>
+    <text class="rise" x="64" y="246" font-size="17" fill="#a5b4fc" style="animation-delay:.3s">B.Sc. CSE, AUST  ·  Advanced ICT Officer, CNRS-UNHCR</text>
+
+    <g class="rise" style="animation-delay:.45s">
+      <rect x="64" y="276" width="304" height="40" rx="20" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".55"/>
+      <circle class="dot" cx="88" cy="296" r="5" fill="#22d3ee"/>
+      <text x="104" y="301" font-size="15" font-weight="600" fill="#cffafe">Seeking a fully funded PhD in AI</text>
+    </g>
+    <g class="rise" style="animation-delay:.6s">
+      <rect x="382" y="276" width="330" height="40" rx="20" fill="#e879f9" fill-opacity=".12" stroke="#e879f9" stroke-opacity=".55"/>
+      <circle class="dot" cx="406" cy="296" r="5" fill="#e879f9" style="animation-delay:.9s"/>
+      <text x="422" y="301" font-size="15" font-weight="600" fill="#fae8ff">Sponsored projects → open for all</text>
+    </g>
+  </g>
+
+  <!-- viewfinder + neural network -->
+  <g fill="none" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" opacity=".8">
+    <path d="M792 86V62h24M1124 62h24v24M1148 318v24h-24M816 342h-24v-24"/>
+  </g>
+  <text class="mono" x="806" y="84" font-size="12" fill="#67e8f9" fill-opacity=".8">vision model · live</text>
+
+  <g stroke="#8ea2ff" stroke-opacity=".16" stroke-width="1.2">
+    <path d="M850 118L963 100M850 118L963 150M850 118L963 200M850 118L963 250M850 118L963 300
+             M850 173L963 100M850 173L963 150M850 173L963 200M850 173L963 250M850 173L963 300
+             M850 228L963 100M850 228L963 150M850 228L963 200M850 228L963 250M850 228L963 300
+             M850 283L963 100M850 283L963 150M850 283L963 200M850 283L963 250M850 283L963 300
+             M963 100L1076 145M963 100L1076 200M963 100L1076 255
+             M963 150L1076 145M963 150L1076 200M963 150L1076 255
+             M963 200L1076 145M963 200L1076 200M963 200L1076 255
+             M963 250L1076 145M963 250L1076 200M963 250L1076 255
+             M963 300L1076 145M963 300L1076 200M963 300L1076 255"/>
+  </g>
+
+  <g>
+    <path class="sig" stroke="#22d3ee" d="M850 118L963 150L1076 145"/>
+    <path class="sig" stroke="#a78bfa" d="M850 173L963 100L1076 200" style="animation-delay:.5s"/>
+    <path class="sig" stroke="#f472b6" d="M850 228L963 250L1076 255" style="animation-delay:1.1s"/>
+    <path class="sig" stroke="#22d3ee" d="M850 283L963 200L1076 145" style="animation-delay:1.6s"/>
+    <path class="sig" stroke="#e879f9" d="M850 118L963 300L1076 255" style="animation-delay:2.1s"/>
+    <path class="sig" stroke="#a78bfa" d="M850 283L963 250L1076 200" style="animation-delay:2.6s"/>
+  </g>
+
+  <g stroke-width="2">
+    <g fill="#0b1024" stroke="#67e8f9">
+      <circle cx="850" cy="118" r="10"/><circle cx="850" cy="173" r="10"/><circle cx="850" cy="228" r="10"/><circle cx="850" cy="283" r="10"/>
+    </g>
+    <g fill="#0b1024" stroke="#a5b4fc">
+      <circle cx="963" cy="100" r="10"/><circle cx="963" cy="150" r="10"/><circle cx="963" cy="200" r="10"/><circle cx="963" cy="250" r="10"/><circle cx="963" cy="300" r="10"/>
+    </g>
+    <g fill="#0b1024" stroke="#e879f9">
+      <circle cx="1076" cy="145" r="10"/><circle cx="1076" cy="200" r="10"/><circle cx="1076" cy="255" r="10"/>
+    </g>
+  </g>
+  <g>
+    <circle class="node" cx="850" cy="118" r="5" fill="#67e8f9"/>
+    <circle class="node" cx="850" cy="173" r="5" fill="#67e8f9" style="animation-delay:.4s"/>
+    <circle class="node" cx="850" cy="228" r="5" fill="#67e8f9" style="animation-delay:.8s"/>
+    <circle class="node" cx="850" cy="283" r="5" fill="#67e8f9" style="animation-delay:1.2s"/>
+    <circle class="node" cx="963" cy="100" r="5" fill="#a5b4fc" style="animation-delay:.2s"/>
+    <circle class="node" cx="963" cy="150" r="5" fill="#a5b4fc" style="animation-delay:.9s"/>
+    <circle class="node" cx="963" cy="200" r="5" fill="#a5b4fc" style="animation-delay:1.5s"/>
+    <circle class="node" cx="963" cy="250" r="5" fill="#a5b4fc" style="animation-delay:.6s"/>
+    <circle class="node" cx="963" cy="300" r="5" fill="#a5b4fc" style="animation-delay:2.1s"/>
+    <circle class="node" cx="1076" cy="145" r="5" fill="#e879f9" style="animation-delay:1s"/>
+    <circle class="node" cx="1076" cy="200" r="5" fill="#e879f9" style="animation-delay:1.8s"/>
+    <circle class="node" cx="1076" cy="255" r="5" fill="#e879f9" style="animation-delay:2.4s"/>
+  </g>
+  <g class="mono" font-size="12" fill="#f5d0fe" fill-opacity=".85">
+    <text x="1094" y="149">see</text>
+    <text x="1094" y="204">learn</text>
+    <text x="1094" y="259">help</text>
+  </g>
+
+  <g clip-path="url(#vf)">
+    <g class="scan">
+      <rect x="792" y="30" width="356" height="34" fill="url(#sc)"/>
+      <rect x="792" y="63" width="356" height="1.5" fill="#67e8f9" fill-opacity=".6"/>
+    </g>
+  </g>
+</g>
+</svg>

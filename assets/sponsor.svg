@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="214" viewBox="0 0 1200 214" role="img" aria-labelledby="st sd">
+<title id="st">How sponsorship works</title>
+<desc id="sd">You sponsor GPU compute, datasets, open-access fees and travel. I research and build models, datasets, papers and free lessons. The result is open for all: code, model weights, data and papers, free for everyone to use.</desc>
+<style>
+  text { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-anchor: middle; }
+  .h { font-size: 23px; font-weight: 700; fill: #eef1ff; }
+  .p { font-size: 15px; fill: #a5b4d8; }
+  .flow { fill: none; stroke-width: 2.5; stroke-dasharray: 6 9; animation: fl 1s linear infinite; }
+  .ring { fill: none; stroke-width: 2; animation: ring 2.4s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+  .beat { animation: beat 1.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes fl { to { stroke-dashoffset: -15 } }
+  @keyframes ring { from { transform: scale(1); opacity: .8 } to { transform: scale(1.6); opacity: 0 } }
+  @keyframes beat { 0%, 100% { transform: scale(1) } 15% { transform: scale(1.15) } 30% { transform: scale(1) } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+</style>
+
+<!-- 1. sponsor -->
+<rect x="20" y="10" width="320" height="192" rx="18" fill="#0b1130" stroke="#f472b6" stroke-opacity=".45" stroke-width="1.5"/>
+<circle cx="180" cy="66" r="32" fill="#f472b6" fill-opacity=".14"/>
+<g transform="translate(180 66)">
+  <path class="beat" d="M0 13C-4 9-15 3-15-5C-15-11-10-15-5-15C-2-15 0-13 0-10C0-13 2-15 5-15C10-15 15-11 15-5C15 3 4 9 0 13Z" fill="#f472b6"/>
+</g>
+<text class="h" x="180" y="134">You sponsor</text>
+<text class="p" x="180" y="162">GPU compute · datasets</text>
+<text class="p" x="180" y="184">open-access fees · travel</text>
+
+<!-- 2. research -->
+<rect x="440" y="10" width="320" height="192" rx="18" fill="#0b1130" stroke="#a78bfa" stroke-opacity=".45" stroke-width="1.5"/>
+<circle cx="600" cy="66" r="32" fill="#a78bfa" fill-opacity=".14"/>
+<g transform="translate(600 66)" stroke="#a78bfa" stroke-width="2" fill="#a78bfa">
+  <path d="M-13-8L13-13M-13-8L13 0M-13-8L13 13M-13 8L13-13M-13 8L13 0M-13 8L13 13" fill="none" stroke-opacity=".7"/>
+  <circle cx="-13" cy="-8" r="4.5"/><circle cx="-13" cy="8" r="4.5"/>
+  <circle cx="13" cy="-13" r="4"/><circle cx="13" cy="0" r="4"/><circle cx="13" cy="13" r="4"/>
+</g>
+<text class="h" x="600" y="134">I research &amp; build</text>
+<text class="p" x="600" y="162">models · datasets · papers</text>
+<text class="p" x="600" y="184">free lectures and lessons</text>
+
+<!-- 3. open for all -->
+<rect x="860" y="10" width="320" height="192" rx="18" fill="#0b1130" stroke="#34d399" stroke-opacity=".6" stroke-width="1.5"/>
+<circle cx="1020" cy="66" r="32" fill="#34d399" fill-opacity=".14"/>
+<circle class="ring" cx="1020" cy="66" r="32" stroke="#34d399"/>
+<g transform="translate(1020 66)" fill="none" stroke="#34d399" stroke-width="2">
+  <circle r="15"/><ellipse rx="6.5" ry="15"/><path d="M-15 0H15M-13-7H13M-13 7H13"/>
+</g>
+<text class="h" x="1020" y="134">Open for all</text>
+<text class="p" x="1020" y="162">code · model weights · data · papers</text>
+<text class="p" x="1020" y="184">free for everyone to use</text>
+
+<!-- arrows -->
+<g>
+  <path class="flow" d="M346 106H428" stroke="#f472b6"/>
+  <path d="M424 99L434 106L424 113" fill="none" stroke="#f472b6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle r="4.5" fill="#f9a8d4"><animateMotion dur="1.6s" repeatCount="indefinite" path="M346 106H428"/></circle>
+  <path class="flow" d="M766 106H848" stroke="#34d399"/>
+  <path d="M844 99L854 106L844 113" fill="none" stroke="#34d399" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle r="4.5" fill="#6ee7b7"><animateMotion dur="1.6s" repeatCount="indefinite" path="M766 106H848"/></circle>
+</g>
+</svg>
