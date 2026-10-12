@@ -12,7 +12,13 @@
   <a href="https://ai-lecture-hall.vercel.app"><img alt="The AI Lecture Hall" src="https://img.shields.io/badge/The%20AI%20Lecture%20Hall-273%20free%20lectures-0891b2?style=flat-square&logo=bookstack&logoColor=white"></a>
   <a href="https://ai-in-motion.vercel.app"><img alt="AI in Motion" src="https://img.shields.io/badge/AI%20in%20Motion-110%20animated%20lectures-8b5cf6?style=flat-square&logo=airplayvideo&logoColor=white"></a>
   <a href="https://www.youtube.com/@studywithjanin"><img alt="YouTube: Study with Janin" src="https://img.shields.io/badge/YouTube-Study%20with%20Janin-ff0000?style=flat-square&logo=youtube&logoColor=white"></a>
-  <a href="https://www.stopstalk.com/user/profile/studywithjaninYT"><img alt="Competitive programming on StopStalk" src="https://img.shields.io/badge/Competitive%20programming-10%2B%20years-f59e0b?style=flat-square&logo=codeforces&logoColor=white"></a>
+  <a href="https://www.stopstalk.com/user/profile/studywithjaninYT"><img alt="Competitive programming on StopStalk" src="https://img.shields.io/badge/Competitive%20programming-12%2B%20years-f59e0b?style=flat-square&logo=codeforces&logoColor=white"></a>
+  <br>
+  <a href="https://doi.org/10.1007/978-3-032-27666-7_19"><img alt="Publication: Springer Nature 2026" src="https://img.shields.io/badge/Publication-Springer%20Nature%202026-1f4e79?style=flat-square&logo=springer&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=rCCwYnwAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Janin%20A%20Apurba-4285f4?style=flat-square&logo=googlescholar&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0002-8576-284X"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0002--8576--284X-a6ce39?style=flat-square&logo=orcid&logoColor=white"></a>
+  <a href="https://www.researchgate.net/profile/Janin-Apurba"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Janin%20Apurba-00ccbb?style=flat-square&logo=researchgate&logoColor=white"></a>
+  <a href="https://aust.academia.edu/JaninAApurba"><img alt="Academia.edu" src="https://img.shields.io/badge/Academia.edu-JaninAApurba-41454a?style=flat-square&logo=academia&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -28,7 +34,8 @@
 - 🎯 **Seeking:** a fully funded PhD in AI, in computer vision and deep learning.
 - 🔬 **Research focus:** robust, efficient and fair vision models that work outside benchmark conditions, for road safety, humanitarian settings and education.
 - 📝 **Research record:**
-  - 1 paper in the publication process: real-time facial-expression analysis with YOLOv11.
+  - **1 peer-reviewed paper, published by Springer Nature (2026):** [*Emotion Detection at Lightning Speed: Leveraging YOLOv11 for Facial Expression Analysis*](https://doi.org/10.1007/978-3-032-27666-7_19), Lecture Notes in Networks and Systems (ICCTRDA 2025).
+  - 1 manuscript in preparation: a multi-seed benchmark of YOLO detectors for blood-cell detection in microscopy.
   - 3 undergraduate theses: pedestrian risk, vehicle over-speed and brain-tumor classification.
 - 💼 **Now:** Advanced ICT Officer at **CNRS-UNHCR** since October 2025. I teach students digital and ICT skills in a humanitarian setting.
 - 🧪 **Before:** Research Assistant at **Robo Tech Valley**, Dhaka (March–July 2025), working on AI/ML and computer-vision projects.
@@ -36,10 +43,10 @@
 - 🌍 **Open science:**
   - 273 free written lectures and 110 free animated video lectures;
   - every sponsored project is released open for all.
-- ⚡ **Algorithms:** 10+ years of competitive programming.
+- ⚡ **Algorithms:** 12+ years of competitive programming (since 2014).
 
 <p align="center">
-  <img src="assets/impact.svg" width="100%" alt="Impact so far: 273 written AI lectures, 110 animated video lectures, more than 8 hours of narrated animation, 4 computer-vision research projects with 1 paper in the publication process, 10+ years of competitive programming, 39 certificates and credentials.">
+  <img src="assets/impact.svg" width="100%" alt="Impact so far: 273 written AI lectures, 110 animated video lectures, more than 8 hours of narrated animation, 4 computer-vision research projects with 1 paper published by Springer Nature, 12+ years of competitive programming, 39 certificates and credentials.">
 </p>
 
 ---
@@ -48,17 +55,23 @@
 
 > My research interests centre on **computer vision and deep learning for real-world safety and human understanding**, particularly in developing countries such as Bangladesh.
 >
-> My undergraduate research tackled pedestrian detection with risk-level classification for Bangladeshi road scenes, and vision-based vehicle over-speed detection. My current work studies real-time facial-expression analysis with YOLOv11.
+> My undergraduate research tackled pedestrian detection with risk-level classification for Bangladeshi road scenes, and vision-based vehicle over-speed detection. My paper on real-time facial-expression analysis with YOLOv11 was published by Springer Nature in 2026. My current work benchmarks YOLO detectors for blood-cell detection in microscopy images.
 >
 > I want to develop robust, efficient and fair vision models that work reliably outside benchmark conditions, for road safety, humanitarian applications and education.
 
 | Project | Area | Status |
 |---|---|---|
-| **Emotion Detection at Lightning Speed: Leveraging YOLOv11 for Facial Expression Analysis** | Real-time facial-expression recognition | 📝 In the publication process |
+| **[Emotion Detection at Lightning Speed: Leveraging YOLOv11 for Facial Expression Analysis](https://doi.org/10.1007/978-3-032-27666-7_19)** | Real-time facial-expression recognition | ✅ Published, Springer Nature 2026 |
 | **Pedestrian Detection and Risk Level Classification in Perspective of Bangladesh** | Object detection · road safety | 🎓 Undergraduate thesis |
 | **Car Speed Checker and Over-Speed Penalty System** | Vehicle speed estimation · intelligent transport | 🎓 Undergraduate thesis |
 | **Brain Tumor Detection and Classification** | Medical imaging · CNNs | 🎓 Undergraduate thesis |
 | **[People Height Annotation](https://github.com/Apurba94/annotated_frame_dataset)**: detect, track and measure people in video with YOLO pose and ByteTrack | Pose estimation · tracking | 💻 Open source |
+
+### 📄 Publication
+
+A. Giri, **J. A. Apurba**, A. Z. M. J. Uddin, S. I. Rizon, M. R. Begum, A. S. M. A. S. Akib, M. Giri, B. Shahi, M. Khadgi. “Emotion Detection at Lightning Speed: Leveraging YOLOv11 for Facial Expression Analysis.” In *Proceedings of the International Conference on Computational Technologies for Research in Data Analytics (ICCTRDA 2025)*, Lecture Notes in Networks and Systems, Springer Nature, 2026, pp. 218–233. [DOI: 10.1007/978-3-032-27666-7_19](https://doi.org/10.1007/978-3-032-27666-7_19)
+
+🎓 **Research profiles:** [Google Scholar](https://scholar.google.com/citations?user=rCCwYnwAAAAJ) · [ORCID](https://orcid.org/0009-0002-8576-284X) · [ResearchGate](https://www.researchgate.net/profile/Janin-Apurba) · [Academia.edu](https://aust.academia.edu/JaninAApurba)
 
 ### Questions I want to pursue in a PhD
 
@@ -96,7 +109,7 @@ I build in the open, but compute, data and publishing cost real money.
 | Project | Today | Once sponsored |
 |---|---|---|
 | Pedestrian detection and risk classification (Bangladesh) | Thesis, unpublished | Open dataset, models, code and paper |
-| Real-time facial-expression analysis (YOLOv11) | Paper in the publication process | Open code and model weights, open-access paper |
+| Real-time facial-expression analysis (YOLOv11) | [Published, Springer Nature 2026](https://doi.org/10.1007/978-3-032-27666-7_19) | Open code and model weights |
 | Vehicle over-speed detection | Thesis, unpublished | Open code and models |
 | Brain tumor detection and classification | Thesis, unpublished | Open code and models |
 | [Educational rocket-orbit prototype](https://github.com/Apurba94/educational-rocket-orbit-prototype) | Source code on request | Full source code open to everyone |
@@ -172,11 +185,11 @@ I build in the open, but compute, data and publishing cost real money.
 
 ## ⚡ Competitive programming
 
-- **10+ years** of contest problem solving, since 2014, on Codeforces, CodeChef, HackerRank and other platforms.
+- **12+ years** of contest problem solving, since 2014, on Codeforces, CodeChef, HackerRank and other platforms.
 - Recognised for outstanding performance in online programming contests.
 - 📈 Profile: [StopStalk](https://www.stopstalk.com/user/profile/studywithjaninYT)
 - 📂 Archives:
-  - [10 years of competitive-programming resources](https://github.com/Apurba94/10-Years-of_Competitive-Programming-Resources-Collection)
+  - [Competitive-programming resources collection](https://github.com/Apurba94/10-Years-of_Competitive-Programming-Resources-Collection)
   - [Codeforces solutions](https://github.com/Apurba94/Codeforces_solve)
 
 ---
@@ -220,6 +233,8 @@ I build in the open, but compute, data and publishing cost real money.
 
 - 📧 **Email:** [japurba97@gmail.com](mailto:japurba97@gmail.com)
 - 🌐 **Academic portfolio:** [janin-a-apurba.vercel.app](https://janin-a-apurba.vercel.app)
+- 🎓 **Google Scholar:** [Janin A Apurba](https://scholar.google.com/citations?user=rCCwYnwAAAAJ) · **ORCID:** [0009-0002-8576-284X](https://orcid.org/0009-0002-8576-284X)
+- 🔬 **ResearchGate:** [Janin-Apurba](https://www.researchgate.net/profile/Janin-Apurba) · **Academia.edu:** [JaninAApurba](https://aust.academia.edu/JaninAApurba)
 - 📄 **CV:** [Google Drive](https://drive.google.com/file/d/1mU4Bvls94U_ONTf8E_qwJWF8cLZ8rpnS/view?usp=sharing)
 - 👥 **References:** academic references from AUST CSE faculty are available on request.
 
