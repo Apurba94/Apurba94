@@ -156,7 +156,7 @@ I build in the open, but compute, data and publishing cost real money.
 | **[People Height Annotation](https://github.com/Apurba94/annotated_frame_dataset)** | Detects, tracks and measures people in video, with an annotated video, per-frame CSV and a Colab notebook | Python · YOLO pose · ByteTrack |
 | **[AI in Motion engine](https://github.com/Apurba94/ai-in-motion)** | A zero-dependency canvas animation engine with 137 algorithm "scene kits" | JavaScript |
 | **[SMS/Email Spam Classifier](https://github.com/Apurba94/SMS-Email-Spam-calssifier-Dtection)** | Compares machine-learning classifiers on the SMS Spam Collection | Python · Jupyter |
-| **[Zone Analyst](https://github.com/Apurba94/zone-analyst)** | Blue-zone and fight analytics for PUBG Mobile: a website, a Python research toolkit and a mobile app | Python · Expo |
+| **[Zone Analyst](https://github.com/Apurba94/zone-analyst)** · [live](https://zoneanalyst.vercel.app) | Blue-zone and fight analytics for PUBG Mobile: a website, Windows (.exe) and Android (.apk) apps, a Python research toolkit and a combat-math workbook | Python · Electron · Capacitor · Expo |
 
 <details>
 <summary><b>More: games, apps and university projects</b></summary>
