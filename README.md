@@ -146,6 +146,10 @@ I build in the open, but compute, data and publishing cost real money.
   - 110 animated video lectures: more than 8 hours, including 36 deep dives of 10+ minutes.
   - Narration, subtitles, chapters, quizzes and printable illustrated notes.
   - Every animation is computed live from the real algorithm: gradient descent really descends and Q-learning really learns.
+- **[Machine Learning: Basics to Intermediate, in Bangla](https://janix-lms.vercel.app)** · on JaniX, my learning platform
+  - 4 video lessons (about 1 h 48 min) in Bangla with English subtitles, from first principles to modern AI.
+  - Every idea is worked out by hand with real numbers, then coded in Python (scikit-learn, PyTorch).
+  - Each part ends with a quiz and homework; passing the quizzes earns a certificate.
 - **Teaching at CNRS-UNHCR**: ICT and digital skills for students.
 - **YouTube**: [Study with Janin](https://www.youtube.com/@studywithjanin) and [Pomodoro Study with Janin](https://www.youtube.com/@pomodorostudywithjanin3326).
 
@@ -155,6 +159,7 @@ I build in the open, but compute, data and publishing cost real money.
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[JaniX](https://janix-lms.vercel.app)** · live | A learning platform: video, PDF and text lessons, auto-graded quizzes and assignments, QR-verifiable certificates, instructor and admin portals, payments (cards, bKash, Nagad, Rocket) and a REST API; 153 automated tests | Django · PostgreSQL (Neon) · Vercel |
 | **[CodeArena](https://github.com/Apurba94/codearena)** | An online judge like Codeforces and LightOJ: a sandboxed judge for 8 languages, ICPC-style contests, Elo ratings and an archive of about 26,000 problems | Node.js · SQLite · Python sandbox |
 | **[Instant Solver](https://github.com/Apurba94/instant-solver)** | Solves competitive-programming problems, then tries to break each solution by stress-testing it against an independent brute force in a sandbox | Python |
 | **[People Height Annotation](https://github.com/Apurba94/annotated_frame_dataset)** | Detects, tracks and measures people in video, with an annotated video, per-frame CSV and a Colab notebook | Python · YOLO pose · ByteTrack |
@@ -204,7 +209,7 @@ I build in the open, but compute, data and publishing cost real money.
 |---|---|
 | **AI and machine learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
 | **Algorithms and systems** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| **Web and backend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **Web and backend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | **Data** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Oracle PL/SQL](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) |
 
