@@ -36,7 +36,7 @@
 - 📝 **Research record:**
   - **1 peer-reviewed paper, published by Springer Nature (2026):** [*Emotion Detection at Lightning Speed: Leveraging YOLOv11 for Facial Expression Analysis*](https://doi.org/10.1007/978-3-032-27666-7_19), Lecture Notes in Networks and Systems (ICCTRDA 2025).
   - 1 paper under review: a three-seed benchmark of nano YOLO detectors for blood-cell detection, submitted to **IEEE ISBI 2027** (with H. J. Shethil and J. A. Aranna).
-  - 3 manuscripts in preparation: blood-cell classification, calibration and label audit (target IEEE EMBC 2027); stain-robust, label-efficient blood-cell detection (target MICCAI/MIUA 2027); people counting in 4K drone video.
+  - 3 manuscripts in preparation: blood-cell classification, calibration and label audit (target IEEE EMBC 2027); stain-robust, label-efficient blood-cell detection (target MICCAI/MIUA 2027); people counting in 4K drone video (target Machine Vision and Applications).
   - 3 undergraduate theses: pedestrian risk, vehicle over-speed and brain-tumor classification.
 - 💼 **Now:** Advanced ICT Officer at **CNRS-UNHCR** since October 2025. I teach students digital and ICT skills in a humanitarian setting.
 - 🧪 **Before:** Research Assistant at **Robo Tech Valley**, Dhaka (March–July 2025), working on AI/ML and computer-vision projects.
@@ -66,7 +66,7 @@
 | **Do Newer Nano YOLO Detectors Help Blood-Cell Detection? A Multi-Seed Benchmark with Corruptions, Ensembles, Slicing and CPU Deployment** | Medical image analysis · object detection | 📨 Submitted to IEEE ISBI 2027 |
 | **Small Is Enough, Shifts Are Not: Nano YOLO Classifiers, Calibration and Acquisition Shift in Blood-Cell Image Classification** | Classification · calibration · label audit | 📝 In preparation (IEEE EMBC 2027) |
 | **Fewer Labels, Fewer Stain Failures: Stain Randomisation and Pseudo-Labelling for Robust, Label-Efficient Blood-Cell Detection** | Domain shift · semi-supervised detection | 📝 In preparation (MICCAI/MIUA 2027) |
-| **Counting People in 4K Drone Video from Day to Night** | Aerial detection · tracking | 📝 In preparation |
+| **Counting People in 4K Drone Video from Day to Night** | Aerial detection · tracking | 📝 In preparation (Machine Vision and Applications) |
 | **Pedestrian Detection and Risk Level Classification in Perspective of Bangladesh** | Object detection · road safety | 🎓 Undergraduate thesis |
 | **Car Speed Checker and Over-Speed Penalty System** | Vehicle speed estimation · intelligent transport | 🎓 Undergraduate thesis |
 | **Brain Tumor Detection and Classification** | Medical imaging · CNNs | 🎓 Undergraduate thesis |
