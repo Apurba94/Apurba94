@@ -36,7 +36,7 @@
 - 📝 **Research record:**
   - **1 peer-reviewed paper, published by Springer Nature (2026):** [*Emotion Detection at Lightning Speed: Leveraging YOLOv11 for Facial Expression Analysis*](https://doi.org/10.1007/978-3-032-27666-7_19), Lecture Notes in Networks and Systems (ICCTRDA 2025).
   - 1 paper under review: a three-seed benchmark of nano YOLO detectors for blood-cell detection, submitted to **IEEE ISBI 2027** (with H. J. Shethil and J. A. Aranna).
-  - 4 manuscripts in preparation: blood-cell classification, calibration and label audit (target IEEE EMBC 2027); stain-robust, label-efficient blood-cell detection (target MICCAI/MIUA 2027); polyp segmentation with YOLO and SAM 2 (target MIUA 2027); people counting in 4K drone video (target Machine Vision and Applications).
+  - 6 manuscripts in preparation: blood-cell classification, calibration and label audit (target IEEE EMBC 2027); stain-robust, label-efficient blood-cell detection (target MICCAI/MIUA 2027); polyp segmentation with YOLO and SAM 2 (target MIUA 2027); zero- and few-shot medical image classification with BiomedCLIP (target MICCAI 2027 workshop); CPU deployment of blood-cell classifiers in Python and C++; people counting in 4K drone video (target Machine Vision and Applications).
   - 3 undergraduate theses: pedestrian risk, vehicle over-speed and brain-tumor classification.
 - 💼 **Now:** Advanced ICT Officer at **CNRS-UNHCR** since October 2025. I teach students digital and ICT skills in a humanitarian setting.
 - 🧪 **Before:** Research Assistant at **Robo Tech Valley**, Dhaka (March–July 2025), working on AI/ML and computer-vision projects.
@@ -67,6 +67,9 @@
 | **Small Is Enough, Shifts Are Not: Nano YOLO Classifiers, Calibration and Acquisition Shift in Blood-Cell Image Classification** | Classification · calibration · label audit | 📝 In preparation (IEEE EMBC 2027) |
 | **Fewer Labels, Fewer Stain Failures: Stain Randomisation and Pseudo-Labelling for Robust, Label-Efficient Blood-Cell Detection** | Domain shift · semi-supervised detection | 📝 In preparation (MICCAI/MIUA 2027) |
 | **Are Boxes Enough? Mask-Trained Nano YOLO Segmenters versus Box-Prompted SAM 2 for Polyp Segmentation** | Segmentation · foundation models | 📝 In preparation (MIUA 2027) |
+| **Prompts or a Few Labels? Zero-Shot and Few-Shot Classification of Blood-Cell and Skin-Lesion Images with BiomedCLIP, CLIP and DINOv2** | Foundation models · few-shot learning | 📝 In preparation (MICCAI 2027 workshop) |
+| **Python or C++? Runtime Choice, Knowledge Distillation and INT8 Quantisation for Blood-Cell Classification on a CPU** | Deployment · quantisation | 📝 In preparation (IEEE conference) |
+| **CellShift: Moving a Blood-Cell Detector to a New Laboratory without Labels, with Calibrated Cell Counts** | Domain shift · conformal prediction | 🔬 In progress: code and protocol finished, experiments next |
 | **Counting People in 4K Drone Video from Day to Night** | Aerial detection · tracking | 📝 In preparation (Machine Vision and Applications) |
 | **Pedestrian Detection and Risk Level Classification in Perspective of Bangladesh** | Object detection · road safety | 🎓 Undergraduate thesis |
 | **Car Speed Checker and Over-Speed Penalty System** | Vehicle speed estimation · intelligent transport | 🎓 Undergraduate thesis |
@@ -165,6 +168,9 @@ I build in the open, but compute, data and publishing cost real money.
 | **[CodeArena](https://github.com/Apurba94/codearena)** | An online judge like Codeforces and LightOJ: a sandboxed judge for 8 languages, ICPC-style contests, Elo ratings and an archive of about 26,000 problems | Node.js · SQLite · Python sandbox |
 | **[Instant Solver](https://github.com/Apurba94/instant-solver)** | Solves competitive-programming problems, then tries to break each solution by stress-testing it against an independent brute force in a sandbox | Python |
 | **[People Height Annotation](https://github.com/Apurba94/annotated_frame_dataset)** | Detects, tracks and measures people in video, with an annotated video, per-frame CSV and a Colab notebook | Python · YOLO pose · ByteTrack |
+| **[Research Automation Toolkit](https://github.com/Apurba94/research-toolkit-catalog)** | 100 small open-source tools for daily research work: references, statistics, reproducibility, data checks and lab planning | Python |
+| **[Competitive Programming Suite](https://github.com/Apurba94/cp-judge)** | A local judge, a stress tester, test generators and a [library of 69 algorithms](https://github.com/Apurba94/cp-algorithms) cross-checked against brute force | Python |
+| **[Research and PhD Applications](https://github.com/Apurba94/research-and-phd-applications)** | A private Windows app for deadlines, supervisors, funding, referees and documents | Python · SQLite |
 | **[AI in Motion engine](https://github.com/Apurba94/ai-in-motion)** | A zero-dependency canvas animation engine with 137 algorithm "scene kits" | JavaScript |
 | **[SMS/Email Spam Classifier](https://github.com/Apurba94/SMS-Email-Spam-calssifier-Dtection)** | Compares machine-learning classifiers on the SMS Spam Collection | Python · Jupyter |
 | **[Zone Analyst](https://github.com/Apurba94/zone-analyst)** · [live](https://zoneanalyst.vercel.app) | Blue-zone and fight analytics for PUBG Mobile: a website, Windows (.exe) and Android (.apk) apps, a Python research toolkit and a combat-math workbook | Python · Electron · Capacitor · Expo |
