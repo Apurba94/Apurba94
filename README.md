@@ -32,8 +32,8 @@
 
 ## 🎓 At a glance, for PhD committees and funders
 
-- 🎯 **Seeking:** a fully funded PhD in AI, in computer vision and deep learning.
-- 🔬 **Research focus:** robust, efficient and fair vision models that work outside benchmark conditions, for road safety, humanitarian settings and education.
+- 🎯 **Seeking:** a fully funded PhD in AI for Fall 2027, in computer vision and medical image analysis.
+- 🔬 **Research focus:** robust, label-efficient and well-calibrated vision models for medical images (blood-cell microscopy, polyps, skin lesions) that keep working under acquisition and stain shift and run on modest hardware.
 - 📝 **Research record:**
   - **1 peer-reviewed paper, published by Springer Nature (2026):** [*Emotion Detection at Lightning Speed: Leveraging YOLOv11 for Facial Expression Analysis*](https://doi.org/10.1007/978-3-032-27666-7_19), Lecture Notes in Networks and Systems (ICCTRDA 2025).
   - 1 paper under review: a three-seed benchmark of nano YOLO detectors for blood-cell detection, submitted to **IEEE ISBI 2027** (with H. J. Shethil and J. A. Aranna).
@@ -56,11 +56,11 @@
 
 ## 🔬 Research
 
-> My research interests centre on **computer vision and deep learning for real-world safety and human understanding**, particularly in developing countries such as Bangladesh.
+> I want to build **vision models that keep working when conditions change**: a new microscope, a different stain, a darker camera or a cheaper computer.
 >
-> My undergraduate research tackled pedestrian detection with risk-level classification for Bangladeshi road scenes, and vision-based vehicle over-speed detection. My paper on real-time facial-expression analysis with YOLOv11 was published by Springer Nature in 2026. My current work benchmarks YOLO detectors for blood-cell detection in microscopy images.
+> My undergraduate research tackled pedestrian detection with risk-level classification for Bangladeshi road scenes, and vision-based vehicle over-speed detection. My paper on real-time facial-expression analysis with YOLOv11 was published by Springer Nature in 2026. Since then I have focused on medical image analysis: a multi-seed benchmark of nano YOLO detectors for blood-cell detection (under review at IEEE ISBI 2027), classifier failure under acquisition and stain shift, few-shot learning with BiomedCLIP, CLIP and DINOv2, and CellShift, label-free adaptation to a new laboratory with calibrated cell counts.
 >
-> I want to develop robust, efficient and fair vision models that work reliably outside benchmark conditions, for road safety, humanitarian applications and education.
+> In a PhD I want to work on robust, label-efficient and well-calibrated medical imaging models that can run on modest hardware in low-resource clinics.
 
 | Project | Area | Status |
 |---|---|---|
@@ -86,10 +86,12 @@ A. Giri, **J. A. Apurba**, A. Z. M. J. Uddin, S. I. Rizon, M. R. Begum, A. S. M.
 
 ### Questions I want to pursue in a PhD
 
-1. **Beyond the benchmark:** How can detectors stay reliable on dense, unstructured roads, with rickshaws, buses and pedestrians sharing a lane in rain or at night, when they were trained on data from elsewhere?
-2. **Real-time on modest hardware:** How far can YOLO-class models be compressed for edge devices without losing accuracy on the cases that matter most for safety?
-3. **Fair human understanding:** Do expression and pose models work equally well across ages, skin tones and cultures? How do we measure the gaps and close them?
-4. **AI for humanitarian settings:** How can vision and learning systems responsibly support education and services in refugee and low-resource contexts?
+1. **A new lab, no new labels:** When a detector trained in one laboratory meets a new microscope or stain, how much accuracy can be recovered without labels, and how do we know when the counts can be trusted?
+2. **Few labels, big models:** When do foundation models such as BiomedCLIP beat a small supervised model, and how few labelled images does a clinic really need?
+3. **Beyond the benchmark:** How can detectors stay reliable on dense, unstructured roads, with rickshaws, buses and pedestrians sharing a lane in rain or at night, when they were trained on data from elsewhere?
+4. **Real-time on modest hardware:** How far can YOLO-class models be compressed for edge devices without losing accuracy on the cases that matter most for safety?
+5. **Fair human understanding:** Do expression and pose models work equally well across ages, skin tones and cultures? How do we measure the gaps and close them?
+6. **AI for humanitarian settings:** How can vision and learning systems responsibly support education and services in refugee and low-resource contexts?
 
 ---
 
