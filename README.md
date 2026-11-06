@@ -11,6 +11,7 @@
   <br>
   <a href="https://ai-lecture-hall.vercel.app"><img alt="The AI Lecture Hall" src="https://img.shields.io/badge/The%20AI%20Lecture%20Hall-273%20free%20lectures-0891b2?style=flat-square&logo=bookstack&logoColor=white"></a>
   <a href="https://ai-in-motion.vercel.app"><img alt="AI in Motion" src="https://img.shields.io/badge/AI%20in%20Motion-110%20animated%20lectures-8b5cf6?style=flat-square&logo=airplayvideo&logoColor=white"></a>
+  <a href="https://gre-toefl-study-suite.vercel.app"><img alt="GRE and TOEFL Study Suite" src="https://img.shields.io/badge/GRE%20%26%20TOEFL%20Study%20Suite-100%20free%20apps-16a34a?style=flat-square&logo=googleclassroom&logoColor=white"></a>
   <a href="https://www.youtube.com/@studywithjanin"><img alt="YouTube: Study with Janin" src="https://img.shields.io/badge/YouTube-Study%20with%20Janin-ff0000?style=flat-square&logo=youtube&logoColor=white"></a>
   <a href="https://www.stopstalk.com/user/profile/studywithjaninYT"><img alt="Competitive programming on StopStalk" src="https://img.shields.io/badge/Competitive%20programming-12%2B%20years-f59e0b?style=flat-square&logo=codeforces&logoColor=white"></a>
   <br>
@@ -43,6 +44,7 @@
 - 🏛️ **Education:** B.Sc. in Computer Science & Engineering, **Ahsanullah University of Science and Technology (AUST)**, 2025.
 - 🌍 **Open science:**
   - 273 free written lectures and 110 free animated video lectures;
+  - 100 free GRE and TOEFL study apps, on the web and for Windows;
   - every sponsored project is released open for all.
 - ⚡ **Algorithms:** 12+ years of competitive programming (since 2014).
 
@@ -155,6 +157,10 @@ I build in the open, but compute, data and publishing cost real money.
   - 4 video lessons (about 1 h 48 min) in Bangla with English subtitles, from first principles to modern AI.
   - Every idea is worked out by hand with real numbers, then coded in Python (scikit-learn, PyTorch).
   - Each part ends with a quiz and homework; passing the quizzes earns a certificate.
+- **[GRE and TOEFL Study Suite](https://gre-toefl-study-suite.vercel.app)** · [source](https://github.com/Apurba94/gre-toefl-study-suite)
+  - 100 free study apps for the GRE and the January 2026 TOEFL iBT, in the browser or as Windows programs, with no account.
+  - Vocabulary, generated quant questions with exact answers, verbal and reading practice, listening read aloud, and speaking with voice recording.
+  - Timed sections, mock tests, an error log and a study planner.
 - **Teaching at CNRS-UNHCR**: ICT and digital skills for students.
 - **YouTube**: [Study with Janin](https://www.youtube.com/@studywithjanin) and [Pomodoro Study with Janin](https://www.youtube.com/@pomodorostudywithjanin3326).
 
@@ -168,7 +174,7 @@ I build in the open, but compute, data and publishing cost real money.
 | **[CodeArena](https://github.com/Apurba94/codearena)** | An online judge like Codeforces and LightOJ: a sandboxed judge for 8 languages, ICPC-style contests, Elo ratings and an archive of about 26,000 problems | Node.js · SQLite · Python sandbox |
 | **[Instant Solver](https://github.com/Apurba94/instant-solver)** | Solves competitive-programming problems, then tries to break each solution by stress-testing it against an independent brute force in a sandbox | Python |
 | **[People Height Annotation](https://github.com/Apurba94/annotated_frame_dataset)** | Detects, tracks and measures people in video, with an annotated video, per-frame CSV and a Colab notebook | Python · YOLO pose · ByteTrack |
-| **[GRE and TOEFL Study Suite](https://github.com/Apurba94/gre-toefl-study-suite)** | 100 study apps for the GRE and TOEFL iBT as Windows programs and [web apps](https://gre-toefl-study-suite.vercel.app), 2,326 tests | JavaScript · Python |
+| **[GRE and TOEFL Study Suite](https://github.com/Apurba94/gre-toefl-study-suite)** · [live](https://gre-toefl-study-suite.vercel.app) | 100 study apps for the GRE and TOEFL iBT as Windows programs and [web apps](https://gre-toefl-study-suite.vercel.app), 2,326 tests | JavaScript · Python |
 | **[Heavy Software Suite](https://github.com/Apurba94/heavy-software-suite)** | 50 open-source projects with 1,227 automated tests: a SQL database, a compiler and version control from scratch, computer-vision research tools, offline apps for teachers and field teams, and Bangla text tools | Python · NumPy · SQLite |
 | **[Research Automation Toolkit](https://github.com/Apurba94/research-toolkit-catalog)** | 100 small open-source tools for daily research work: references, statistics, reproducibility, data checks and lab planning | Python |
 | **[Competitive Programming Suite](https://github.com/Apurba94/cp-judge)** | A local judge, a stress tester, test generators and a [library of 69 algorithms](https://github.com/Apurba94/cp-algorithms) cross-checked against brute force | Python |
