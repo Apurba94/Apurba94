@@ -60,7 +60,7 @@
 
 > I want to build **vision models that keep working when conditions change**: a new microscope, a different stain, a darker camera or a cheaper computer.
 >
-> My undergraduate research tackled pedestrian detection with risk-level classification for Bangladeshi road scenes, and vision-based vehicle over-speed detection. My paper on real-time facial-expression analysis with YOLOv11 was published by Springer Nature in 2026. Since then I have focused on medical image analysis: a multi-seed benchmark of nano YOLO detectors for blood-cell detection (under review at IEEE ISBI 2027), classifier failure under acquisition and stain shift, few-shot learning with BiomedCLIP, CLIP and DINOv2, and CellShift, label-free adaptation to a new laboratory with calibrated cell counts.
+> My undergraduate research tackled pedestrian detection with risk-level classification for Bangladeshi road scenes, and vision-based vehicle over-speed detection. My paper on real-time facial-expression analysis with YOLOv11 was published by Springer Nature in 2026. Since then I have focused on medical image analysis: a multi-seed benchmark of nano YOLO detectors for blood-cell detection (under review at IEEE ISBI 2027), classifier failure under acquisition and stain shift, few-shot learning with BiomedCLIP, CLIP and DINOv2, and CellShift, label-free adaptation to a new laboratory with calibrated cell counts. I have also started ten studies on public Bangladeshi datasets that measure how near-duplicates and split leakage inflate reported accuracy, and how well models transfer between hospitals, districts and cities.
 >
 > In a PhD I want to work on robust, label-efficient and well-calibrated medical imaging models that can run on modest hardware in low-resource clinics.
 
@@ -74,6 +74,7 @@
 | **Prompts or a Few Labels? Zero-Shot and Few-Shot Classification of Blood-Cell and Skin-Lesion Images with BiomedCLIP, CLIP and DINOv2** | Foundation models · few-shot learning | 📝 In preparation (MICCAI 2027 workshop) |
 | **Python or C++? Runtime Choice, Knowledge Distillation and INT8 Quantisation for Blood-Cell Classification on a CPU** | Deployment · quantisation | 📝 In preparation (IEEE conference) |
 | **CellShift: Moving a Blood-Cell Detector to a New Laboratory without Labels, with Calibrated Cell Counts** | Domain shift · conformal prediction | 🔬 In progress: code and protocol finished, experiments next |
+| **Reliable AI with Public Bangladeshi Data: ten studies** (leakage audits of crop, MRI, CT, X-ray and road-damage datasets; cross-city vehicles; licence plates at night and in fog; electricity demand under load shedding; aircraft-type recognition) | Data leakage · domain shift · reproducibility | 🔬 In progress: code tested on Kaggle, experiments started |
 | **Counting People in 4K Drone Video from Day to Night** | Aerial detection · tracking | 📝 In preparation (Machine Vision and Applications) |
 | **Pedestrian Detection and Risk Level Classification in Perspective of Bangladesh** | Object detection · road safety | 🎓 Undergraduate thesis |
 | **Car Speed Checker and Over-Speed Penalty System** | Vehicle speed estimation · intelligent transport | 🎓 Undergraduate thesis |
