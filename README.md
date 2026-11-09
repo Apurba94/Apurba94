@@ -81,6 +81,22 @@
 | **Brain Tumor Detection and Classification** | Medical imaging · CNNs | 🎓 Undergraduate thesis |
 | **[People Height Annotation](https://github.com/Apurba94/annotated_frame_dataset)**: detect, track and measure people in video with YOLO pose and ByteTrack | Pose estimation · tracking | 💻 Open source |
 
+<details>
+<summary>The ten ongoing studies (code tested on Kaggle; experiments running; no results yet)</summary>
+
+1. **Pre-augmented and near-duplicate images inflate reported accuracy: a leakage audit of public Bangladeshi image datasets** (target: Computers and Electronics in Agriculture)
+2. **Do rice-leaf disease classifiers trained in one part of Bangladesh work in another?** (target: Computers and Electronics in Agriculture)
+3. **Detecting rickshaws, CNGs and buses on Dhaka roads: a multi-seed benchmark of real-time detectors** (target: IEEE Transactions on Intelligent Transportation Systems)
+4. **Duplicates and distribution shift in public Bangladeshi brain-tumour MRI datasets** (target: Computers in Biology and Medicine)
+5. **Forecasting Bangladesh's electricity demand when load shedding hides it** (target: Energy and AI)
+6. **Road-damage image datasets from Bangladesh: near-duplicates, split leakage and cross-city generalisation** (target: Automation in Construction)
+7. **Slice leakage in public Bangladeshi clinical CT and X-ray datasets** (target: Computers in Biology and Medicine)
+8. **Bangladeshi licence-plate detection by day, at night and in fog** (target: IEEE Transactions on Intelligent Transportation Systems)
+9. **Do vehicle detectors trained in Dhaka work in Sylhet and Chattogram?** (target: IEEE Transactions on Intelligent Transportation Systems)
+10. **How reliable are fine-grained aircraft-type recognisers trained on web images?** (target: Pattern Recognition Letters)
+
+</details>
+
 ### 📄 Publication
 
 A. Giri, **J. A. Apurba**, A. Z. M. J. Uddin, S. I. Rizon, M. R. Begum, A. S. M. A. S. Akib, M. Giri, B. Shahi, M. Khadgi. “Emotion Detection at Lightning Speed: Leveraging YOLOv11 for Facial Expression Analysis.” In *Proceedings of the International Conference on Computational Technologies for Research in Data Analytics (ICCTRDA 2025)*, Lecture Notes in Networks and Systems, Springer Nature, 2026, pp. 218–233. [DOI: 10.1007/978-3-032-27666-7_19](https://doi.org/10.1007/978-3-032-27666-7_19)
